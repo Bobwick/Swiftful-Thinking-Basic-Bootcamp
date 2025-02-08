@@ -9,15 +9,21 @@ Welcome to my iOS Development journey! This repository contains my progress thro
 
 Lesson	Topic	Completion Date
 ✅ Lesson 1	Swift Basics: How to code in Swift	02/08/2025
+
 ✅ Lesson 2	Swift Basics: How to use basic types in Swift (Bool,String, Int) 02/08/2025
+
 🔄 Lesson 3	SwiftUI Bootcamp: Views & Modifiers	In Progress
+
 🔜 Lesson 4	SwiftUI Bootcamp: Navigation & State	Upcoming
 
 📂 Furture Projects
 
 Throughout my journey, I will be building real-world projects to reinforce my learning:
 ✅ To-Do List App (SwiftUI) – Working with lists & persistence
+
 ✅ Weather App (Networking) – Fetching real-time weather data from an API
+
 ✅ Chat App (Firebase) – User authentication & real-time messaging
+
 🔜 More to come!
 
