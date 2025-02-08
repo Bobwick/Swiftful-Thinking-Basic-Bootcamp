@@ -12,9 +12,15 @@ Welcome to my iOS Development journey! This repository contains my progress thro
 
 ✅ Lesson 2	Swift Basics: How to use basic types in Swift (Bool,String, Int) - 02/08/2025
 
-✅ Lesson 3	Swift Basics: How to use Variables and Constants -	02/-8/2025
+✅ Lesson 3	Swift Basics: How to use Variables and Constants -	02/08/2025
 
-🔄 Lesson 4	Swift Basics: How to write if-statements and use operators -	Upcoming
+✅ Lesson 4	Swift Basics: How to write if-statements and use operators -	02/08/2025
+
+🔄 Lesson 5	Swift Basics: How to use Functions in Swift 
+
+🔄 Lesson 6	Swift Basics: How to use Optionals in Swift
+
+🔄 Lesson 7	Swift Basics: How to use Tuples in Swift
 
 _________
 
