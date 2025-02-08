@@ -8,13 +8,13 @@ Welcome to my iOS Development journey! This repository contains my progress thro
 📅 Study Plan & Progress
 
 
-✅ Lesson 1	Swift Basics: How to code in Swift	02/08/2025
+✅ Lesson 1	Swift Basics: How to code in Swift	- 02/08/2025
 
-✅ Lesson 2	Swift Basics: How to use basic types in Swift (Bool,String, Int) 02/08/2025
+✅ Lesson 2	Swift Basics: How to use basic types in Swift (Bool,String, Int) - 02/08/2025
 
-🔄 Lesson 3	Swift Basics: How to use Variables and Constants	In Progress
+🔄 Lesson 3	Swift Basics: How to use Variables and Constants -	In Progress
 
-🔜 Lesson 4	Swift Basics: How to write if-statements and use operators	Upcoming
+🔜 Lesson 4	Swift Basics: How to write if-statements and use operators -	Upcoming
 
 
 
