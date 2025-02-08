@@ -7,7 +7,6 @@ Welcome to my iOS Development journey! This repository contains my progress thro
 
 📅 Study Plan & Progress
 
-Lesson	Topic	Completion Date
 
 ✅ Lesson 1	Swift Basics: How to code in Swift	02/08/2025
 
