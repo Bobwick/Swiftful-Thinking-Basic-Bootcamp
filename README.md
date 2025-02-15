@@ -16,7 +16,7 @@ Welcome to my iOS Development journey! This repository contains my progress thro
 
 ✅ Lesson 4	Swift Basics: How to write if-statements and use operators -	02/08/2025
 
-🔄 Lesson 5	Swift Basics: How to use Functions in Swift 
+✅ Lesson 5	Swift Basics: How to use Functions in Swift - 02/15/2025
 
 🔄 Lesson 6	Swift Basics: How to use Optionals in Swift
 
