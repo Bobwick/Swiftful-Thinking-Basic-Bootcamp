@@ -31,8 +31,6 @@ if userIsPremium == true {
     print("1 - user is premium")
 } else {
     print("1.1 - user is NOT primium")
-    
-    
 }
 
 if userIsPremium {
