@@ -18,7 +18,7 @@ Welcome to my iOS Development journey! This repository contains my progress thro
 
 ✅ Lesson 5	Swift Basics: How to use Functions in Swift - 02/15/2025
 
-🔄 Lesson 6	Swift Basics: How to use Optionals in Swift
+✅ Lesson 6	Swift Basics: How to use Optionals in Swift - 02/16/2025
 
 🔄 Lesson 7	Swift Basics: How to use Tuples in Swift
 
