@@ -17,18 +17,15 @@ myFirstFunction()
 
 
 func getUserName() -> String {
-    let username: String = "Nick"
+    let username = "Nick"
     return username
 }
 
-
+func checIfUserIsPrium() -> Bool {
+    return false
+}
 
 let name: String = getUserName()
-
-
-
-
-
 
 
 //-------------------------------------
@@ -59,7 +56,7 @@ func doSomethingElse(someValue: Bool) {
     
 }
 
-//-------------------------
+//------------------------------
 
 let newValue = doSomething()
 
@@ -110,7 +107,7 @@ func calculateNumbers() -> Int {
     return number1 + number2
 }
 
-func calculateNumbers(value1: Int, Value2: Int) -> Int {
+func calculateNumbers(value1: Int, value2: Int) -> Int {
     return value1 + value2
 }
 

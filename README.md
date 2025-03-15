@@ -1,4 +1,4 @@
-📌 Swiftful Thinking Progress 🚀
+2📌 Swiftful Thinking Progress 🚀
 
 Learning iOS Development with SwiftUI
 
